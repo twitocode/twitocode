@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A random programmer from Canada</h3>
 
 <p align="left"> <a href="https://twitter.com/novaiieee" target="blank"><img src="https://img.shields.io/twitter/follow/novaiieee?logo=twitter&style=for-the-badge" alt="novaiieee" /></a> </p>
 
