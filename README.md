@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=novaiiee&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="novaiiee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novaiiee&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="novaiiee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novaiiee&theme=dark" alt="novaiiee" /></p>
