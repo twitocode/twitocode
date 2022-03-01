@@ -4,9 +4,9 @@
 <p align="left"> <a href="https://twitter.com/novaiieee" target="blank"><img src="https://img.shields.io/twitter/follow/novaiieee?logo=twitter&style=for-the-badge" alt="novaiieee" /></a> </p>
 <!---
 - 🔭 I’m currently working on [Serenity](https://github.com/Novaiiee/Serenity-Client)
--->
-// - 🌱 I’m currently learning **Next.js and Nest.js**
 
+// - 🌱 I’m currently learning **Next.js and Nest.js**
+-->
 - 👨‍💻 All of my projects are available at [https://github.com/Novaiiee](https://github.com/Novaiiee)
 
 - ⚡ Fun fact **I'm dead inside ;-;**
