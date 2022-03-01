@@ -5,8 +5,9 @@
 <!---
 - 🔭 I’m currently working on [Serenity](https://github.com/Novaiiee/Serenity-Client)
 
-// - 🌱 I’m currently learning **Next.js and Nest.js**
+- 🌱 I’m currently learning **Next.js and Nest.js**
 -->
+
 - 👨‍💻 All of my projects are available at [https://github.com/Novaiiee](https://github.com/Novaiiee)
 
 - ⚡ Fun fact **I'm dead inside ;-;**
