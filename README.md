@@ -1,5 +1,4 @@
-![header.png](https://github.com/Novaiiee/Novaiiee/blob/main/header.png?raw=true)
-
+![Header](./header.png)
 <p align="left"> <a href="https://twitter.com/novaiieee" target="blank"><img src="https://img.shields.io/twitter/follow/novaiieee?logo=twitter&style=for-the-badge" alt="novaiieee" /></a> </p>
 
 <h3>I'm a programmer from Canada</h3>
