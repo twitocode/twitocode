@@ -13,4 +13,4 @@
 <a href="https://dribbble.com/novaiiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="novaiiee" height="30" width="40" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novaiiee)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novaiiee&show_icons=true&theme=radical)
