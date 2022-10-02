@@ -20,7 +20,7 @@
 <p>Programs I use for development:<p/>
 <img src="https://skillicons.dev/icons?i=vscode,photoshop,figma,bash,blender,unity" />
 
-<p>What I'm interest in:<p/>
+<p>What I'm interested in:<p/>
 <img src="https://skillicons.dev/icons?i=flutter,docker,tauri,githubactions,redis,redux,rust,supabase,vite,wasm&perline=6" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novaiiee&show_icons=true&theme=radical)
