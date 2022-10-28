@@ -6,22 +6,22 @@
 <h2>Favourite Tools</h2> 
 
 <p>Programming Languages:</p> 
-<img src="https://skillicons.dev/icons?i=cs,typescript,golang" />
+<img src="https://skillicons.dev/icons?i=cs,typescript" />
 
 <p>Libraries & Frameworks:</p> 
-<img src="https://skillicons.dev/icons?i=react,svelte,nextjs,dotnet,nestjs,graphql,jest,tailwind,express,apollo&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,svelte,nextjs,dotnet,nestjs,graphql,tailwind&perline=6" />
 
 <p>Databases:</p> 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
 <p>Deployment:</p>
-<img src="https://skillicons.dev/icons?i=heroku,netlify,vercel" />
+<img src="https://skillicons.dev/icons?i=netlify,vercel" />
 
 <p>Programs I use for development:<p/>
-<img src="https://skillicons.dev/icons?i=vscode,photoshop,figma,bash,blender,unity" />
+<img src="https://skillicons.dev/icons?i=vscode,photoshop,figma" />
 
 <p>What I'm interested in:<p/>
-<img src="https://skillicons.dev/icons?i=flutter,docker,tauri,githubactions,redis,redux,rust,supabase,vite,wasm&perline=6" />
+<img src="https://skillicons.dev/icons?i=flutter,docker,tauri,githubactions,redis,redux,rust,supabase,vite,wasm,golang&perline=6" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novaiiee&show_icons=true&theme=radical)
 
