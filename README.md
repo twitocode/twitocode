@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=cs,typescript" />
 
 <p>Libraries & Frameworks:</p> 
-<img src="https://skillicons.dev/icons?i=react,svelte,nextjs,dotnet,nestjs,graphql,tailwind&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,svelte,nextjs,dotnet,nestjs,graphql,tailwindcss&perline=6" />
 
 <p>Databases:</p> 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
