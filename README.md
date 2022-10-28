@@ -8,14 +8,11 @@
 <p>Programming Languages:</p> 
 <img src="https://skillicons.dev/icons?i=cs,typescript" />
 
-<p>Libraries & Frameworks:</p> 
-<img src="https://skillicons.dev/icons?i=react,svelte,nextjs,dotnet,nestjs,graphql,tailwindcss&perline=6" />
+<p>Frontend Tools and Frameworks:</p> 
+<img src="https://skillicons.dev/icons?i=react,svelte,nextjs,tailwindcss,vercel&perline=6" />
 
-<p>Databases:</p> 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-
-<p>Deployment:</p>
-<img src="https://skillicons.dev/icons?i=netlify,vercel" />
+<p>Backend Tools and Frameworks:</p> 
+<img src="https://skillicons.dev/icons?i=dotnet,nestjs,graphql,postgres,mongodb" />
 
 <p>Programs I use for development:<p/>
 <img src="https://skillicons.dev/icons?i=vscode,photoshop,figma" />
