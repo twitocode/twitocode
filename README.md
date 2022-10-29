@@ -1,6 +1,6 @@
-![Header](./header2.png)
+![Header](header3.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=4C61F7&width=435&lines=Whats+in+store+for+your+journey%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=2000&color=AADAF7&width=435&lines=What's+in+store+for+your+journey%3F)](https://git.io/typing-svg)
 
 
 <h2>Favourite Tools</h2> 
