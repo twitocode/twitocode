@@ -20,7 +20,7 @@
 <p>What I'm interested in:<p/>
 <img src="https://skillicons.dev/icons?i=flutter,docker,tauri,githubactions,redis,redux,rust,supabase,vite,wasm,golang&perline=6" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novaiiee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twitocode&show_icons=true&theme=radical)
 
 <!-- <a href="https://www.data-card-for-spotify.com/card?user_id=1tkkoexby0iam082gqc4nku2q">
   <img src="https://www.data-card-for-spotify.com/api/card?user_id=1tkkoexby0iam082gqc4nku2q" alt="Data Card for Spotify">
