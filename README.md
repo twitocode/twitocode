@@ -9,19 +9,19 @@
 <img src="https://skillicons.dev/icons?i=cs,typescript" />
 
 <p>Frontend Tools and Frameworks:</p> 
-<img src="https://skillicons.dev/icons?i=react,svelte,nextjs,tailwindcss&perline=6" />
+<img src="https://skillicons.dev/icons?i=svelte,tailwindcss&perline=6" />
 
 <p>Backend Tools and Frameworks:</p> 
-<img src="https://skillicons.dev/icons?i=dotnet,nestjs,postgres" />
+<img src="https://skillicons.dev/icons?i=dotnet,postgres" />
 
 <p>Programs I use for development:<p/>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,obsidian" />
 
 <p>What I'm interested in:<p/>
-<img src="https://skillicons.dev/icons?i=flutter,tauri,rust,vite,wasm&perline=6" />
+<img src="https://skillicons.dev/icons?i=tauri,rust,golang,neovim&perline=6" />
 
 <p>What I'm learning:</p>
-<img src="https://skillicons.dev/icons?i=redis,golang,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=redis,docker&perline=6" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twitocode&show_icons=true&theme=radical)
 
