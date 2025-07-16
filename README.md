@@ -1,27 +1,14 @@
 ![Header](github-twitocode.png)
+Hello! I am a student software engineer based in Canada.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=2000&color=AADAF7&width=435&lines=What's+in+store+for+your+journey%3F)](https://git.io/typing-svg)
-
-
-<h2>Favourite Tools</h2> 
-
-<p>Programming Languages:</p> 
-<img src="https://skillicons.dev/icons?i=cs,typescript" />
-
-<p>Frontend Tools and Frameworks:</p> 
-<img src="https://skillicons.dev/icons?i=svelte,tailwindcss&perline=6" />
-
-<p>Backend Tools and Frameworks:</p> 
-<img src="https://skillicons.dev/icons?i=dotnet,postgres" />
-
-<p>Programs I use for development:<p/>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,obsidian" />
-
-<p>What I'm interested in:<p/>
-<img src="https://skillicons.dev/icons?i=tauri,rust,golang,neovim&perline=6" />
-
-<p>What I'm learning:</p>
-<img src="https://skillicons.dev/icons?i=redis,docker&perline=6" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&duration=2000&pause=1000&color=679DF7&width=435&lines=The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams;Every+day+is+a+journey%2C+and+the+journey+itself+is+home.)](https://git.io/typing-svg)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twitocode&show_icons=true&theme=radical)
 
