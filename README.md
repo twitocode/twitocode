@@ -2,7 +2,7 @@
 <br />
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&duration=2000&pause=1000&color=679DF7&width=435&lines=The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams;Every+day+is+a+journey%2C+and+the+journey+itself+is+home.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&pause=1000&color=7B99F7&vCenter=true&width=435&lines=The+future+belongs+to+the+believers.;What's+in+store+for+your+journey%3F)](https://git.io/typing-svg)
 ___
 Hello! I am a student software engineer based in Canada.
 <br />
