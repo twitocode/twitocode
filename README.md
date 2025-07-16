@@ -1,4 +1,4 @@
-![Header](header3.png)
+![Header](github-twitocode.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=2000&color=AADAF7&width=435&lines=What's+in+store+for+your+journey%3F)](https://git.io/typing-svg)
 
