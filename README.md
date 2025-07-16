@@ -1,7 +1,11 @@
 ![Header](github-twitocode.png)
-Hello! I am a student software engineer based in Canada.
+<br />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&duration=2000&pause=1000&color=679DF7&width=435&lines=The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams;Every+day+is+a+journey%2C+and+the+journey+itself+is+home.)](https://git.io/typing-svg)
+___
+Hello! I am a student software engineer based in Canada.
+<br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
