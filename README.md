@@ -16,7 +16,7 @@ Hello! I am a student software engineer based in Canada.
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twitocode&show_icons=true&theme=github_dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twitocode&show_icons=true&theme=github_dark)
 
 <!-- <a href="https://www.data-card-for-spotify.com/card?user_id=1tkkoexby0iam082gqc4nku2q">
   <img src="https://www.data-card-for-spotify.com/api/card?user_id=1tkkoexby0iam082gqc4nku2q" alt="Data Card for Spotify">
