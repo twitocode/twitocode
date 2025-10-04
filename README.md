@@ -8,6 +8,7 @@ Hello! I am a student software engineer based in Canada.
 <br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
