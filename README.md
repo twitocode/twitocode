@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&pause=1000&color=7B99F7&vCenter=true&width=435&lines=The+future+belongs+to+the+believers.;What's+in+store+for+your+journey%3F)](https://git.io/typing-svg)
 ___
-Hello! I am a student software engineer based in Canada.
+Hello! I am a CS student based in Canada.
 <br />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
