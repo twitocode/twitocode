@@ -13,6 +13,7 @@ Hello! I am a CS student based in Canada.
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
 <br />
